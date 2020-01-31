@@ -1,2 +1,2 @@
 # Sequence_List
-顺序链表C++实现
+顺序表C++实现
